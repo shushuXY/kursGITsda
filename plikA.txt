@@ -1,1 +1,1 @@
-wersja pliku A w main
+wersja pliku A w main, zmieniona w branchu main
