@@ -1,1 +1,1 @@
-inna wersja pliku. Wersja 2.0
+wersja pliku testing do mergowania z bledem
