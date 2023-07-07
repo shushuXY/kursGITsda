@@ -1,1 +1,0 @@
-wersja pliku testing do mergowania z bledem
